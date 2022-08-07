@@ -12,9 +12,25 @@ public class appiumTest {
 		
 		System.out.println("NativeApptest");
 	}
+	
+	@Test
+	public void AppiumTest1()
+	
+	{
+		
+		System.out.println("NativeApptest");
+	}
 
 	@Test
 	public void IOSApps()
+	
+	{
+		
+		System.out.println("IOSApps");
+	}
+	
+	@Test
+	public void IOSApps1()
 	
 	{
 		
