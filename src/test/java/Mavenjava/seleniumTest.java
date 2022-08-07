@@ -41,4 +41,14 @@ public class seleniumTest {
 		System.out.println("testSelenium");
 		System.out.println("testSelenium");
 	}
+	
+	@Test
+	public void testSeleniumAmerican()
+	
+	{
+		
+		System.out.println("testSelenium American");
+		System.out.println("testSelenium American");
+		System.out.println("testSelenium American");
+	}
 }

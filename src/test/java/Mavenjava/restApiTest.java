@@ -18,9 +18,7 @@ public class restApiTest {
 		System.out.println("postjiraTest2");
 		System.out.println("postjiraTest2");
 		System.out.println("postjiraTest2");
-		
 	
-
 	
 	}
 
