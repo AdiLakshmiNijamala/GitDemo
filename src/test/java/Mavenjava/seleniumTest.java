@@ -30,6 +30,7 @@ public class seleniumTest {
 		System.out.println("testSelenium");
 		System.out.println("testSelenium");
 		System.out.println("testSelenium");
+		System.out.println("testSelenium");
 	}
 	
 	@Test
